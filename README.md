@@ -1,4 +1,4 @@
-# Principal Component Analysis (PCA) README
+# Principal Component Analysis (PCA)
 
 ![PCA](https://miro.medium.com/v2/resize:fit:300/1*mgncZaKaVx9U6OCQu_m8Bg.jpeg)
 
